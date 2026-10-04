@@ -1,0 +1,22 @@
+{
+  "name": "photo-clean",
+  "version": "0.1.0",
+  "private": true,
+  "description": "写真の位置情報けし：写真に埋め込まれた情報をブラウザの中だけで確かめて消す",
+  "author": "aL",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^5.6.0",
+    "vite": "^6.0.0",
+    "vitest": "^3.0.0"
+  }
+}
