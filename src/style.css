@@ -1,4 +1,4 @@
-/* 写真の位置情報けし：配色と雰囲気は alt4l.dev に合わせる．外部の通信はしないので，書体は端末のものを使う． */
+/* 写真の位置情報けし：配色と雰囲気は alt4l.dev に合わせる。外部の通信はしないので、書体は端末のものを使う。 */
 :root {
   --bg: #F4F6F4; --surface: #FFFFFF; --sunken: #EAEEEC; --ink: #1D2A2B; --muted: #5B6B6D; --line: #D8E0DD;
   --accent: #2C6E5F; --accent-deep: #22594C; --accent-weak: #E1EEE9; --warn: #B8741A; --warn-weak: #F6EAD8;

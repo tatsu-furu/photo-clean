@@ -1,0 +1,3 @@
+#!/bin/sh
+# コミットの前に、句読点が、このリポジトリの決まり（「、」「。」）にそろっているかを検査する（git config core.hooksPath .githooks で有効）
+node scripts/check-punctuation.mjs
